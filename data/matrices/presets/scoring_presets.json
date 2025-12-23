@@ -1,0 +1,12 @@
+{
+  "default_step": 0.5,
+  "qtype_points_default": {
+    "Trắc nghiệm nhiều lựa chọn": 0.5,
+    "Đúng/Sai": 1.0,
+    "Nối cột": 1.0,
+    "Điền khuyết": 1.0,
+    "Tự luận": 2.0
+  },
+  "true_false_statements_default": 4,
+  "matching_pairs_default": 4
+}

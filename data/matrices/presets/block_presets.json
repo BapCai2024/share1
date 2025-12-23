@@ -1,0 +1,12 @@
+{
+  "mode_default": "whole_exam_10",
+  "blocks": [
+    {
+      "name": "Block 1",
+      "points": 10.0,
+      "filter": {
+        "block": 1
+      }
+    }
+  ]
+}
