@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Local caches / logs
+*.log
+.cache/
+
+# Generated exports
+outputs/
+exports/
+
+# OS
+.DS_Store
+Thumbs.db
